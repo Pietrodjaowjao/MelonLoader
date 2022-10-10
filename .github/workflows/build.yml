@@ -1,6 +1,6 @@
 name: Build MelonLoader
 
-# Controls when the action will run. 
+# Controls when the action will run. but not
 on:
   push:
     branches: [ci-test, alpha-development, master]
